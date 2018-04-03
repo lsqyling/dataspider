@@ -1,6 +1,6 @@
-DataSpider
+dataspider
 ====
 
-> A demo of WebMagic.
+> A application of WebMagic.
 
-集成了Spring，使用WebMagic抓取招聘信息，并且使用Mybatis持久化到Mysql的项目。
+集成了Spring，使用WebMagic抓取时光，并且使用Mybatis持久化到Mysql的项目。
